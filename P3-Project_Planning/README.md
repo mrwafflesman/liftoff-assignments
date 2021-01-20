@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-
+https://github.com/mrwafflesman/liftoff-assignments/tree/master/wireframes
 
 ### Project Tracker
 
